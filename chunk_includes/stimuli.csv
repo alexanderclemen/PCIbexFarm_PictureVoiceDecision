@@ -1,0 +1,13 @@
+group,item,item-name,gender,picture,target 
+A,1,castle,n,castle.jpg, filler
+A,2,cathedral,n,cathedral.jpg, filler
+A,3,church,f,church.jpg, target
+B,4,factory,f,factory.jpg, target
+B,5,house,n,house.jpg, filler
+B,6,lighthouse,m,lighthouse.jpg, target
+C,7,mill,f,mill.jpg, target
+C,8,palace,m,palace.jpg, target
+C,9,pyramid,f,pyramid.jpg, target
+D,10,silo,n,silo.JPG, filler
+D,11,skyscraper,m,skyscraper.jpg, target
+D,12,tower,m,tower.jpg, target
